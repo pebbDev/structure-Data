@@ -1,6 +1,3 @@
-Tentu, saya akan melengkapinya. Berikut ini dokumentasi lengkap dengan kode program Anda yang disisipkan:
-
-```markdown
 # Implementasi Single Linked List dalam C++
 
 ## Linked List
