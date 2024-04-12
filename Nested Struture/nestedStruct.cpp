@@ -1,11 +1,18 @@
 // #include <iostream>
 // using namespace std;
+
+// struct Kampus {
+//   string namaKampus, alamatKampus;
+//   int tahunBerdiri;
+// };
+
 // struct Mahasiswa {
 //   // komponen / member
 //   string nim, nama, jurusan;
 //   int umur;
 //   string hobi[3];
 // } mhs1, mhs[1];
+
 // int main() {
 //   string hobiMahasiswa[3] = {"Berenang", "Membaca", "Menulis"};
 
@@ -16,6 +23,9 @@
 //   mhs[0].nama = "Febriyadi";
 //   mhs[0].jurusan = "Teknik Informatika";
 //   mhs[0].umur = 20;
+//   mhs[0].Kampus.namaKampus = "Universitas Tadulako";
+//   mhs[0].Kampus.alamatKampus = "Jl.SoeKarno-Hatta";
+//   mhs[0].Kampus.tahunBediri = 1999;
 
 //   for (int i = 0; i < 3; ++i) {
 //     mhs[0].hobi[i] = hobiMahasiswa[i];
